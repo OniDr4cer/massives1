@@ -19,5 +19,6 @@ fun main() {
 
     if(!chetNechet) {
         println("Вывести нечетное число невозможно")
+
     }
 }
